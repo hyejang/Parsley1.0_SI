@@ -30,6 +30,8 @@ This repository contains scripts, whose details are available in our preprint.
 ```
 #### Descriptions 
 
+-  `1_valence_parameter_fitting/README.md`: OpenFF ForceBalance fitting tutorial[(original location)](https://github.com/openforcefield/openforcefield-forcebalance/blob/master/README.md)
+
 - `2019-05-16-Roche-Optimization_Set/`: Roche optimization dataset construction and submission [(original location)](https://github.com/openforcefield/qca-dataset-submission/tree/master/2019-05-16-Roche-Optimization_Set)
 
 - `2019-07-09-OpenFF-Optimization-Set/`: Roche hessian dataset construction and submission [(original location)](https://github.com/openforcefield/qca-dataset-submission/tree/master/2019-07-09-OpenFF-Optimization-Set)
